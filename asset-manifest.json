@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cal-app/static/css/main.69d8600f.css",
+    "main.js": "/cal-app/static/js/main.0d74c002.js",
+    "static/js/787.28cb0dcd.chunk.js": "/cal-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/cal-app/index.html",
+    "main.69d8600f.css.map": "/cal-app/static/css/main.69d8600f.css.map",
+    "main.0d74c002.js.map": "/cal-app/static/js/main.0d74c002.js.map",
+    "787.28cb0dcd.chunk.js.map": "/cal-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d8600f.css",
+    "static/js/main.0d74c002.js"
+  ]
+}
